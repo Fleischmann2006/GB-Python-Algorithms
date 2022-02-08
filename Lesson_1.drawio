@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-08T13:32:06.077Z" agent="5.0 (Windows)" etag="DkFX7qf6CayA6xA9kWLA" version="16.5.3" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-02-08T13:33:45.492Z" agent="5.0 (Windows)" etag="DU1SBM8Rkg2_26mVLhEe" version="16.5.3" type="github" pages="5">
   <diagram id="r0mKvmXK7QKv8nB3Saxx" name="lesson_1_task_1">
     <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -501,7 +501,7 @@
         <mxCell id="Wi43Q0zqoE4EDLFjfsTE-0" value="&lt;div&gt;CHAR = chr(n + 64) &lt;br&gt;&lt;/div&gt;&lt;div&gt;char = chr(n + 96)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="oUiqlVoqpO_4bwSiusrG-1">
           <mxGeometry x="354" y="180" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Wi43Q0zqoE4EDLFjfsTE-2" value="&lt;div&gt;раздельно определяем заглавную&lt;/div&gt;&lt;div&gt;&amp;nbsp;и прописную буквы по таблице ASCII&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="oUiqlVoqpO_4bwSiusrG-1">
+        <mxCell id="Wi43Q0zqoE4EDLFjfsTE-2" value="&lt;div&gt;раздельно определяем заглавную&lt;/div&gt;&lt;div&gt;&amp;nbsp;и строчную буквы по таблице ASCII&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="oUiqlVoqpO_4bwSiusrG-1">
           <mxGeometry x="530" y="192.5" width="50" height="35" as="geometry" />
         </mxCell>
         <mxCell id="Wi43Q0zqoE4EDLFjfsTE-3" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="oUiqlVoqpO_4bwSiusrG-1" target="Wi43Q0zqoE4EDLFjfsTE-2">
