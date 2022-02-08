@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-08T12:20:44.727Z" agent="5.0 (Windows)" etag="ysFnFcY4wd2aE1BSn6_p" version="16.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-02-08T12:31:37.016Z" agent="5.0 (Windows)" etag="gEDpqxb9S0cXpi5l4NNs" version="16.5.3" type="github" pages="3">
   <diagram id="r0mKvmXK7QKv8nB3Saxx" name="lesson_1_task_1">
     <mxGraphModel dx="582" dy="1660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -211,7 +211,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="i4NUi6Hy2-EKJaS_FN3F" name="lesson_1_task_3">
-    <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="582" dy="1660" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4v6hwixoYu7PkOEQDYbh-0" />
         <mxCell id="4v6hwixoYu7PkOEQDYbh-1" parent="4v6hwixoYu7PkOEQDYbh-0" />
@@ -296,7 +296,7 @@
             <mxPoint x="610" y="880" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="xYb2o44r6uYwruav3VVR-31" value="res = chr(random.randint(ord(&#39;a&#39;), ord(&#39;b&#39;)))" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4v6hwixoYu7PkOEQDYbh-1">
+        <mxCell id="xYb2o44r6uYwruav3VVR-31" value="res = chr(random.randint(ord(a), ord(b)))" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="4v6hwixoYu7PkOEQDYbh-1">
           <mxGeometry x="280" y="740" width="270" height="60" as="geometry" />
         </mxCell>
         <mxCell id="xYb2o44r6uYwruav3VVR-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="4v6hwixoYu7PkOEQDYbh-1" target="xYb2o44r6uYwruav3VVR-33">
