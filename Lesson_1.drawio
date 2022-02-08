@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-08T14:31:59.735Z" agent="5.0 (Windows)" etag="7p0ECRzFshkus_EI5bMT" version="16.5.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2022-02-08T14:41:57.876Z" agent="5.0 (Windows)" etag="SwRYvNazeZNRrWVJYJ93" version="16.5.3" type="github" pages="8">
   <diagram id="r0mKvmXK7QKv8nB3Saxx" name="lesson_1_task_1">
     <mxGraphModel dx="2062" dy="1140" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -409,15 +409,6 @@
         </mxCell>
         <mxCell id="UD1x1qHAN2c4hR245J_G-9" value="res = pos_b - pos_a - 1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="Q7Du6C21dZCPdEUaf5AZ-1">
           <mxGeometry x="470" y="620" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="UD1x1qHAN2c4hR245J_G-11" value="вычисляем, сколько букв между ними" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="Q7Du6C21dZCPdEUaf5AZ-1">
-          <mxGeometry x="650" y="632.5" width="50" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="UD1x1qHAN2c4hR245J_G-12" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="Q7Du6C21dZCPdEUaf5AZ-1" target="UD1x1qHAN2c4hR245J_G-11">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="610" y="650" as="sourcePoint" />
-            <mxPoint x="730" y="840" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="X-6-FvRD4IzNFtjwXyIh-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="Q7Du6C21dZCPdEUaf5AZ-1" source="X-6-FvRD4IzNFtjwXyIh-0" target="X-6-FvRD4IzNFtjwXyIh-2">
           <mxGeometry relative="1" as="geometry" />
